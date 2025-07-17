@@ -67,3 +67,7 @@ tmp/
 temp/
 
 .langgraph_api
+
+# results
+results/
+
